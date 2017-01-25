@@ -1,15 +1,14 @@
 # `ws.` TLD Health Check Results
 
-Final scan status: **error** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154522&id=15757912&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318628&id=15766148&view=basic&test=standard
 
 ## Delegation Scan
 
 **Errors**:
 
-* Inconsistent glue for name server ns3.dns.ws. The address of a name server differed between the child and the parent.  This is a configuration error and should be corrected as soon as possible.
-* Inconsistent glue for name server ns4.dns.ws. The address of a name server differed between the child and the parent.  This is a configuration error and should be corrected as soon as possible.
+No errors to display.
 
 **Warnings**:
 

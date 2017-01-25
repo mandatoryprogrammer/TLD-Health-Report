@@ -1,8 +1,8 @@
 # `tech.` TLD Health Check Results
 
-Final scan status: **error** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154992&id=15758152&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319182&id=15766295&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -28,8 +28,7 @@ No statuses to display.
 
 **Errors**:
 
-* Name server a.nic.tech (194.169.218.60) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
-* Name server a.nic.tech (2001:67c:13cc:0:0:0:1:60) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
+No errors to display.
 
 **Warnings**:
 
@@ -38,9 +37,7 @@ No statuses to display.
 
 **Notices**:
 
-* DNS lookup error (timeout).
-* DNS lookup error (timeout).
-* DNS lookup error (timeout).
+No notices to display.
 
 **Statuses**:
 

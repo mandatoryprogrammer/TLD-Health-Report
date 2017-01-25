@@ -2,7 +2,7 @@
 
 Final scan status: **error** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154933&id=15758118&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319284&id=15766320&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -141,7 +141,7 @@ No errors to display.
 
 **Warnings**:
 
-No warnings to display.
+* 2 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
 
 **Notices**:
 
@@ -199,7 +199,7 @@ No warnings to display.
 
 **Notices**:
 
-* DNS lookup error (connection failed).
+No notices to display.
 
 **Statuses**:
 

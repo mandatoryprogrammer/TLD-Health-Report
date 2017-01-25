@@ -2,7 +2,7 @@
 
 Final scan status: **error** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485155003&id=15758172&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319459&id=15766370&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -122,11 +122,13 @@ No statuses to display.
 
 **Errors**:
 
-No errors to display.
+* Not enough valid signatures over SOA RRset found for sl.. No valid signatures for the SOA RRset for the zone was found - make sure the zone is signed with a valid and published key.
 
 **Warnings**:
 
 * Broken chain of trust for sl. - DNSKEY found at child, but no DS was found at parent. The child seems to use DNSSEC, but the parent has no secure delegation.  The chain of trust between the parent and the child is broken and validating resolvers will not be able to validate answers from the child.
+* DNSSEC signature not yet valid: RRSIG(sl/IN/SOA/14507) Signatures with an inception date in the future will be ignored by validating resolvers.
+* DNSSEC signature not yet valid: RRSIG(sl/IN/SOA/55940) Signatures with an inception date in the future will be ignored by validating resolvers.
 
 **Notices**:
 

@@ -2,7 +2,7 @@
 
 Final scan status: **ok** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154520&id=15757908&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318616&id=15766146&view=basic&test=standard
 
 ## Delegation Scan
 

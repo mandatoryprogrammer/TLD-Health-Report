@@ -2,7 +2,7 @@
 
 Final scan status: **ok** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154572&id=15757964&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318822&id=15766204&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -23,6 +23,78 @@ No notices to display.
 No statuses to display.
 
 ## Nameserver Scan
+
+### `a0.nic.VIG`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `a2.nic.VIG`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `b0.nic.VIG`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `c0.nic.VIG`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
 
 ### `a0.nic.vig`
 

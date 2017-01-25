@@ -1,8 +1,8 @@
 # `wang.` TLD Health Check Results
 
-Final scan status: **error** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154539&id=15757932&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318748&id=15766178&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -118,8 +118,7 @@ No statuses to display.
 
 **Errors**:
 
-* Name server f.zdnscloud.com (182.131.23.22) does not answer queries over UDP. The name server failed to answer queries sent over UDP.  This is probably due to the name server not correctly set up or due to misconfigured filtering in a firewall.
-* Name server f.zdnscloud.com (182.131.23.22) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
+No errors to display.
 
 **Warnings**:
 
@@ -195,7 +194,7 @@ No errors to display.
 
 **Warnings**:
 
-* 2 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
+No warnings to display.
 
 **Notices**:
 
@@ -253,7 +252,7 @@ No warnings to display.
 
 **Notices**:
 
-* DNS lookup error (connection failed).
+No notices to display.
 
 **Statuses**:
 

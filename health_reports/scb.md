@@ -2,7 +2,7 @@
 
 Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485155013&id=15758186&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319664&id=15766422&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -126,7 +126,8 @@ No warnings to display.
 
 **Notices**:
 
-* SOA refresh for scb. too small (2400) - recommended >= 14400. SOA refresh decides how often a secondary name server should check the primary name server for zone updates.
+* SOA TTL for scb. too small (1800) - recommended >= 3600. The smaller the SOA TTL value, the more often resolvers need to requery for SOA record.
+* SOA refresh for scb. too small (1800) - recommended >= 14400. SOA refresh decides how often a secondary name server should check the primary name server for zone updates.
 * SOA retry for scb. too small (900) - recommended >= 3600. The retry value is the amount of time secondary name servers will wait before contacting the primary name server again if the last attempt failed. If the retry value is too small, secondary name servers will retry too frequently.
 
 **Statuses**:

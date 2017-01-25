@@ -2,7 +2,7 @@
 
 Final scan status: **error** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154236&id=15757741&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485317561&id=15765983&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -46,7 +46,7 @@ No statuses to display.
 
 **Errors**:
 
-* Name server ns2.telone.co.zw (194.133.122.42) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
+No errors to display.
 
 **Warnings**:
 
@@ -54,8 +54,7 @@ No warnings to display.
 
 **Notices**:
 
-* DNS lookup error (unknown error or no error).
-* DNS lookup error (unknown error or no error).
+No notices to display.
 
 **Statuses**:
 
@@ -165,7 +164,6 @@ No warnings to display.
 **Notices**:
 
 * DNS lookup error (connection failed).
-* DNS lookup error (unknown error or no error).
 
 **Statuses**:
 

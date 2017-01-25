@@ -1,8 +1,8 @@
 # `ve.` TLD Health Check Results
 
-Final scan status: **error** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154572&id=15757966&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318855&id=15766215&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -118,8 +118,7 @@ No statuses to display.
 
 **Errors**:
 
-* Name server ns4.nic.ve (190.202.128.43) does not answer queries over UDP. The name server failed to answer queries sent over UDP.  This is probably due to the name server not correctly set up or due to misconfigured filtering in a firewall.
-* Name server ns4.nic.ve (190.202.128.43) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
+No errors to display.
 
 **Warnings**:
 
@@ -219,7 +218,7 @@ No warnings to display.
 
 **Notices**:
 
-No notices to display.
+* DNS lookup error (timeout).
 
 **Statuses**:
 

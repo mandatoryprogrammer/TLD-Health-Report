@@ -2,13 +2,14 @@
 
 Final scan status: **error** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154608&id=15758005&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318908&id=15766230&view=basic&test=standard
 
 ## Delegation Scan
 
 **Errors**:
 
 * Missing glue at child: anycast.eahd.or.ug The IP address of the name server was not found at the child. This is a configuration error and should be corrected as soon as possible.
+* Following the referral chain for root.eahd.or.ug failed.
 
 **Warnings**:
 

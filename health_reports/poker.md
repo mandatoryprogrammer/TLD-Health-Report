@@ -1,8 +1,8 @@
 # `poker.` TLD Health Check Results
 
-Final scan status: **ok** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485155086&id=15758278&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485320055&id=15766527&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -104,7 +104,7 @@ No errors to display.
 
 **Warnings**:
 
-No warnings to display.
+* 3 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
 
 **Notices**:
 

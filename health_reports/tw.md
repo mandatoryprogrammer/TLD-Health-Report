@@ -2,7 +2,7 @@
 
 Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154597&id=15757991&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318937&id=15766236&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -122,7 +122,7 @@ No errors to display.
 
 **Warnings**:
 
-* Could not find reverse address for 163.28.1.10 (10.1.28.163.in-addr.arpa.). PTR record(s) for the address could not be found in the .arpa-zone. (ip6.arpa. for IPv6 addresses and in-addr.arpa. for IPv4).
+No warnings to display.
 
 **Notices**:
 
@@ -231,7 +231,7 @@ No errors to display.
 
 **Warnings**:
 
-No warnings to display.
+* 2 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
 
 **Notices**:
 

@@ -2,7 +2,7 @@
 
 Final scan status: **ok** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485155065&id=15758257&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319387&id=15766346&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -23,6 +23,78 @@ No notices to display.
 No statuses to display.
 
 ## Nameserver Scan
+
+### `a0.nic.SRT`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `a2.nic.SRT`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `b0.nic.SRT`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
+
+### `c0.nic.SRT`
+
+**Errors**:
+
+No errors to display.
+
+**Warnings**:
+
+No warnings to display.
+
+**Notices**:
+
+No notices to display.
+
+**Statuses**:
+
+No statuses to display.
 
 ### `a0.nic.srt`
 

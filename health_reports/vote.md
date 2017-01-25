@@ -1,8 +1,8 @@
 # `vote.` TLD Health Check Results
 
-Final scan status: **ok** 
+Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154556&id=15757952&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485318769&id=15766187&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -104,7 +104,7 @@ No errors to display.
 
 **Warnings**:
 
-No warnings to display.
+* 2 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
 
 **Notices**:
 

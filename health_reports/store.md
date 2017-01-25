@@ -2,7 +2,7 @@
 
 Final scan status: **warning** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154932&id=15758102&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319335&id=15766333&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -168,8 +168,7 @@ No warnings to display.
 
 **Notices**:
 
-* DNS lookup error (timeout).
-* DNS lookup error (timeout).
+No notices to display.
 
 **Statuses**:
 

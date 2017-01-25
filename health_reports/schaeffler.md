@@ -1,8 +1,8 @@
 # `schaeffler.` TLD Health Check Results
 
-Final scan status: **warning** 
+Final scan status: **ok** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485155004&id=15758174&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319663&id=15766421&view=basic&test=standard
 
 ## Delegation Scan
 
@@ -104,7 +104,7 @@ No errors to display.
 
 **Warnings**:
 
-* 2 different serials found. The SOA serial is not the same on all name servers. This is usually due to misconfiguration, but can sometimes be the result of slow zone propagation to secondary name servers.
+No warnings to display.
 
 **Notices**:
 

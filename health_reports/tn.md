@@ -2,16 +2,15 @@
 
 Final scan status: **error** 
 
-Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485154928&id=15758034&view=basic&test=standard
+Original RIPE scan results URL: http://dnscheck.ripe.net/?time=1485319051&id=15766266&view=basic&test=standard
 
 ## Delegation Scan
 
 **Errors**:
 
 * Asking for the address for ns1.ati.tn resulted in an error of type unknown problem.
-* Asking for the address for ns2.ati.tn resulted in an error of type unknown problem.
-* Asking for the address for ns2.ati.tn resulted in an error of type unknown problem.
-* Following the referral chain for pch.ati.tn failed.
+* Following the referral chain for ns1.ati.tn failed.
+* Asking for the address for pch.ati.tn resulted in an error of type unknown problem.
 
 **Warnings**:
 
@@ -19,6 +18,7 @@ No warnings to display.
 
 **Notices**:
 
+* DNS lookup error (query timed out).
 * DNS lookup error (query timed out).
 * DNS lookup error (query timed out).
 * DNS lookup error (query timed out).
@@ -52,11 +52,11 @@ No statuses to display.
 
 **Errors**:
 
-No errors to display.
+* Name server ns1.ati.tn (2001:4350:1:1:0:0:0:10) does not answer queries over TCP. The name server failed to answer queries sent over TCP.  This is probably due to the name server not correctly set up or due to misconfgured filtering in a firewall. It is a rather common misconception that DNS does not need TCP unless they provide zone transfers - perhaps the name server administrator is not aware that TCP usually is a requirement.
 
 **Warnings**:
 
-No warnings to display.
+* Could not find reverse address for 2001:4350:1:1:0:0:0:10 (0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.0.0.5.3.4.1.0.0.2.ip6.arpa.). PTR record(s) for the address could not be found in the .arpa-zone. (ip6.arpa. for IPv6 addresses and in-addr.arpa. for IPv4).
 
 **Notices**:
 
@@ -165,7 +165,7 @@ No errors to display.
 
 **Warnings**:
 
-No warnings to display.
+* Could not find reverse address for 2001:4350:1:1:0:0:0:10 (0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.0.0.5.3.4.1.0.0.2.ip6.arpa.). PTR record(s) for the address could not be found in the .arpa-zone. (ip6.arpa. for IPv6 addresses and in-addr.arpa. for IPv4).
 
 **Notices**:
 
